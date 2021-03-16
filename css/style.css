@@ -636,6 +636,7 @@ h6 {
   margin-right: auto;
   width: 220px;
   height: 220px;
+  object-fit: cover;
 }
 
 /* Testimonials Section
@@ -702,11 +703,10 @@ h6 {
 .testimonial-img {
   width: 800px;
   height: 300px;
- 
+
   display: block;
   margin-left: 1px;
   margin-right: 50px;
- 
 }
 
 /*--------------------------------------------------------------
